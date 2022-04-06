@@ -1,5 +1,4 @@
 import { useFormik } from 'formik';
-import { get } from 'http';
 import * as Yup from 'yup';
 
 import '../styles/styles.css';
